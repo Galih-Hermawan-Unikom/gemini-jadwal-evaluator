@@ -1,0 +1,52 @@
+{
+  "query": "Tampilkan jadwal hari Senin",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "sidang",
+    "semester": "genap",
+    "pekan": 3,
+    "timestamp": "2025-04-29T15:59:15.308185"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 5021,
+      "completion_tokens": 16,
+      "total_tokens": 5037,
+      "latency_s": 0.63
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 9105,
+      "completion_tokens": 16,
+      "total_tokens": 9121,
+      "latency_s": 0.705
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.07499999999999996,
+    "records": {
+      "txt_count": 0,
+      "json_count": 0,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 0.0
+    }
+  }
+}
