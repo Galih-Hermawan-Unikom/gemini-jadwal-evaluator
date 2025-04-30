@@ -1,0 +1,37 @@
+{
+  "models_tested": [
+    "gemini-2.0-flash-lite",
+    "gemini-2.0-pro-exp"
+  ],
+  "temperatures_tested": [
+    0.0
+  ],
+  "total_prompts": 5,
+  "timestamp": "2025-04-30 11:07:14",
+  "model_summaries": {
+    "gemini-2.0-flash-lite": {
+      "name": "gemini-2.0-flash-lite",
+      "description": "Gemini 2.0 Flash-Lite – Versi ringan Flash-Lite",
+      "temperature_results": {
+        "0.0": {
+          "success_rate": 100.0,
+          "average_match_percentage": 61.553999999999995,
+          "average_time_per_prompt": 15.071146869659424,
+          "total_execution_time": 75.35573434829712
+        }
+      }
+    },
+    "gemini-2.0-pro-exp": {
+      "name": "gemini-2.0-pro-exp",
+      "description": "Gemini 2.0 Pro Experimental – Versi eksperimental Pro 2.0",
+      "temperature_results": {
+        "0.0": {
+          "success_rate": 100.0,
+          "average_match_percentage": 80.0,
+          "average_time_per_prompt": 62.40565776824951,
+          "total_execution_time": 312.02828884124756
+        }
+      }
+    }
+  }
+}
