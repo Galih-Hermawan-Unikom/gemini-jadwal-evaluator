@@ -1,0 +1,594 @@
+{
+  "query": "Tampilkan jadwal sebelum jam 10 pagi",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-04-17",
+    "temperature": 0.0,
+    "kegiatan": "sidang",
+    "semester": "genap",
+    "pekan": 3,
+    "timestamp": "2025-05-07T13:19:30.559410"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "jadwal": [
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120143",
+          "nama": "Ihsan Ramadhan Nul Hakim",
+          "judul": "Pembangunan WhatsApp Messenger ChatBot untuk Mengidentifikasi Pesan Penipuan",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Sri Nurhayati, S.Si., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120034",
+          "nama": "Ariq Fadhilah Saputra",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Klinik Menggunakan Performance Dashboard di Klinik Pratama Pradita Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10119374",
+          "nama": "Muh Abdilah Uzumi",
+          "judul": "Penerapan Optimasi Metode Random Over Sampling (ROS) untuk Kasus Imbalance Class dalam Analisis Sentimen Berbasis Aspek pada Kasus Pembatalan Piala Dunia -20 di Indonesia",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120066",
+          "nama": "Eky Nugraha Heriawan",
+          "judul": "Sistem Monitoring Kegiatan Penjualan Menggunakan Metode Performance Dashboard di PT. Yans Sumber Segar",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120114",
+          "nama": "Rayhan Rahman Miraj Bunyamin Rustandar",
+          "judul": "Reengineering Website Juragan Panel Menggunakan Metode Clean Code",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10119289",
+          "nama": "Dhifo Aksa Hermawan",
+          "judul": "Pembangunan Aplikasi Konversi Pulsa ke Mata Uang Digital Berbasis Website di PT. Fajar Ekosistem Digital",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Andri Heryandi, S.T., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120134",
+          "nama": "Eriko Ananta",
+          "judul": "Pengaruh Penerapan Frame Rate Terhadap Peningkatan Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi lag dalam Game Shooter Multiplayer",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120020",
+          "nama": "Risha Amara",
+          "judul": "Penerapan Data Mining Menggunakan Metode Klasifikasi untuk Menghasilkan Rekomendasi Tanam",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10118089",
+          "nama": "Ifanka Wiralangga",
+          "judul": "Game Pathway-Finding 3D Mencari Rute Terpendek Menggunakan Algoritma A*(A-Star) dengan Optimasi Heapsort",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120102",
+          "nama": "Fasya Mutiara Pagi",
+          "judul": "Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi Tinder dengan Metode Support Vector Machine",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120784",
+          "nama": "Denisa Alyaa Putri",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Barang Menggunakan Metode Economic Order Quantity (EOQ) di PT. Hartelindo Telco Utama",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Sri Nurhayati, S.Si., M.T.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120214",
+          "nama": "Rully Fadia",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Moving Average di CV. Persada Mandiri",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120084",
+          "nama": "Fadlan Alfalah Baihaqi",
+          "judul": "Pemantauan Ketersediaan Slot Parkir dengan Integrasi Sensor",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Andri Heryandi, S.T., M.T.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120708",
+          "nama": "Taufiq Qurohman Ruki",
+          "judul": "Visualisasi Data pada Departemen HRD PT. Dharma Polimetal Tbk.",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "tidak",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120781",
+          "nama": "Guruh Fillah Alfariza",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Barang Bahan Bangunan Menggunakan Metode Economic Order Quantity (EOQ) di TB. Guntur",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sri Nurhayati, S.Si., M.T.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120032",
+          "nama": "Hanif Amrullah Almuharam",
+          "judul": "Pembangunan Aplikasi Asisten Berbasis Android untuk Individu Disabilitas Penglihatan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10119086",
+          "nama": "Seldi Syahrizal",
+          "judul": "Pembangunan Aplikasi Pendeteksi Tingkat Kematangan Buah",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Andri Heryandi, S.T., M.T.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120212",
+          "nama": "Daffa Albari",
+          "judul": "Penerapan Prompt Engineering pada Aplikasi Analisis Sosial Media",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5025,
+      "completion_tokens": 3494,
+      "total_tokens": 8519,
+      "latency_s": 65.06
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "jadwal": [
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120143",
+          "nama": "Ihsan Ramadhan Nul Hakim",
+          "judul": "Pembangunan WhatsApp Messenger ChatBot untuk Mengidentifikasi Pesan Penipuan",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Sri Nurhayati, S.Si., M.T.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120034",
+          "nama": "Ariq Fadhilah Saputra",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Klinik Menggunakan Performance Dashboard di Klinik Pratama Pradita Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10119374",
+          "nama": "Muh Abdilah Uzumi",
+          "judul": "Penerapan Optimasi Metode Random Over Sampling (ROS) untuk Kasus Imbalance Class dalam Analisis Sentimen Berbasis Aspek pada Kasus Pembatalan Piala Dunia -20 di Indonesia",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120066",
+          "nama": "Eky Nugraha Heriawan",
+          "judul": "Sistem Monitoring Kegiatan Penjualan Menggunakan Metode Performance Dashboard di PT. Yans Sumber Segar",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120114",
+          "nama": "Rayhan Rahman Miraj Bunyamin Rustandar",
+          "judul": "Reengineering Website Juragan Panel Menggunakan Metode Clean Code",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10119289",
+          "nama": "Dhifo Aksa Hermawan",
+          "judul": "Pembangunan Aplikasi Konversi Pulsa ke Mata Uang Digital Berbasis Website di PT. Fajar Ekosistem Digital",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120134",
+          "nama": "Eriko Ananta",
+          "judul": "Pengaruh Penerapan Frame Rate Terhadap Peningkatan Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi lag dalam Game Shooter Multiplayer",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120020",
+          "nama": "Risha Amara",
+          "judul": "Penerapan Data Mining Menggunakan Metode Klasifikasi untuk Menghasilkan Rekomendasi Tanam",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10118089",
+          "nama": "Ifanka Wiralangga",
+          "judul": "Game Pathway-Finding 3D Mencari Rute Terpendek Menggunakan Algoritma A*(A-Star) dengan Optimasi Heapsort",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Irfan Maliki, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120102",
+          "nama": "Fasya Mutiara Pagi",
+          "judul": "Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi Tinder dengan Metode Support Vector Machine",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Nelly Indriani W, S.Si., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120784",
+          "nama": "Denisa Alyaa Putri",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Barang Menggunakan Metode Economic Order Quantity (EOQ) di PT. Hartelindo Telco Utama",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Sri Nurhayati, S.Si., M.T.",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120214",
+          "nama": "Rully Fadia",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Moving Average di CV. Persada Mandiri",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120084",
+          "nama": "Fadlan Alfalah Baihaqi",
+          "judul": "Pemantauan Ketersediaan Slot Parkir dengan Integrasi Sensor",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120708",
+          "nama": "Taufiq Qurohman Ruki",
+          "judul": "Visualisasi Data pada Departemen HRD PT. Dharma Polimetal Tbk.",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "tidak",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120781",
+          "nama": "Guruh Fillah Alfariza",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Barang Bahan Bangunan Menggunakan Metode Economic Order Quantity (EOQ) di TB. Guntur",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sri Nurhayati, S.Si., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120032",
+          "nama": "Hanif Amrullah Almuharam",
+          "judul": "Pembangunan Aplikasi Asisten Berbasis Android untuk Individu Disabilitas Penglihatan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10119086",
+          "nama": "Seldi Syahrizal",
+          "judul": "Pembangunan Aplikasi Pendeteksi Tingkat Kematangan Buah",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120212",
+          "nama": "Daffa Albari",
+          "judul": "Penerapan Prompt Engineering pada Aplikasi Analisis Sosial Media",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9109,
+      "completion_tokens": 3494,
+      "total_tokens": 12603,
+      "latency_s": 19.061
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 45.999,
+    "records": {
+      "txt_count": 18,
+      "json_count": 18,
+      "count_match": true,
+      "common_count": 18,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

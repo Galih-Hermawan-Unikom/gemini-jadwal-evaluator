@@ -1,0 +1,52 @@
+{
+  "query": "Tampilkan jadwal mahasiswa dengan nama ahmad",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-04-17",
+    "temperature": 0.0,
+    "kegiatan": "sidang",
+    "semester": "genap",
+    "pekan": 3,
+    "timestamp": "2025-05-07T13:18:03.805231"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 5024,
+      "completion_tokens": 16,
+      "total_tokens": 5040,
+      "latency_s": 10.059
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 9108,
+      "completion_tokens": 16,
+      "total_tokens": 9124,
+      "latency_s": 3.899
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 6.159999999999999,
+    "records": {
+      "txt_count": 0,
+      "json_count": 0,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 0.0
+    }
+  }
+}

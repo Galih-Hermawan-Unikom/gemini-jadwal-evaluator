@@ -1,0 +1,55 @@
+{
+  "total_prompts": 5,
+  "successful_evaluations": 5,
+  "total_execution_time": 275.9939019680023,
+  "average_time_per_prompt": 55.198780393600465,
+  "model": "gemini-2.5-flash-preview-04-17",
+  "temperature": 0.0,
+  "results_by_id": {
+    "dosen_galih": {
+      "query": "Tampilkan jadwal dosen galih",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 5,
+      "json_jadwal_count": 5
+    },
+    "hari_senin": {
+      "query": "Tampilkan jadwal hari Senin",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2
+    },
+    "mahasiswa_nama_ahmad": {
+      "query": "Tampilkan jadwal mahasiswa dengan nama ahmad",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 0,
+      "json_jadwal_count": 0
+    },
+    "waktu_pagi": {
+      "query": "Tampilkan jadwal sebelum jam 10 pagi",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 18,
+      "json_jadwal_count": 18
+    },
+    "ruang_6028": {
+      "query": "Tampilkan jadwal di ruang 6028",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 11,
+      "json_jadwal_count": 11
+    }
+  }
+}
